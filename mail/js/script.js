@@ -24,3 +24,5 @@ if (access) {
   } else {
     alert("Ci dispiace tanto, ma non abbiamo trovato la sua mail all'interno della nostra lista riprovi con un altra mail.")
   }
+
+//   manca ancoera la validazione mail
